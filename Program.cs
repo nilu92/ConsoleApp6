@@ -10,7 +10,13 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("ändring från visual studio");
+            Console.WriteLine("ändring från visual studio");
+            Console.WriteLine("ändring 2");
+
             Console.WriteLine("TESTA");
+
         }
     }
 }
