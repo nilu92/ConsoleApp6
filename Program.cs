@@ -10,6 +10,8 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
+          Console.WriteLine("vi kör test");
+            Console.WriteLine("vi kör test2");
         }
     }
 }
